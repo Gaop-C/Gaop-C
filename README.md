@@ -12,10 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 profile metric 图标：![Metrics](/github-metrics.svg)
+                    <picture>
+                      <img src="/github-metrics.svg" alt="Metrics">
+                    </picture>
 metric 资源库：github.com/lowlighter/metrics
               https://github.com/stats-organization/github-stats-extended
               https://github.com/stats-organization/github-readme-stats-action
 metric 教程：https://link.zhihu.com/?target=https%3A//github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 相关 profile 编辑教程链接：https://zhuanlan.zhihu.com/p/741677397
 -->
-![Metrics](/github-metrics.svg)
+
