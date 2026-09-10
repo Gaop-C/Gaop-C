@@ -24,11 +24,13 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_base: yes
-          plugin_base_title: "✨ Github Stats" # 卡片内置标题
 
           # Options
           user: Gaop-C
           template: classic
           base: header, activity, community, repositories, metadata
+          extras_css: |
+            h1 {
+              display: none !important;
+            }
           config_timezone: Asia/Shanghai
