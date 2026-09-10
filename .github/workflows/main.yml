@@ -33,4 +33,5 @@ jobs:
             h1 {
               display: none !important;
             }
+          plugin_introduction_title: "📊 Github Stats"
           config_timezone: Asia/Shanghai
