@@ -29,5 +29,4 @@ jobs:
           user: Gaop-C
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_introduction_title: "📊 Github Stats"
           config_timezone: Asia/Shanghai
