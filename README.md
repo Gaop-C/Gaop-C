@@ -18,5 +18,5 @@ metric 资源库：github.com/lowlighter/metrics
 metric 教程：https://link.zhihu.com/?target=https%3A//github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 相关 profile 编辑教程链接：https://zhuanlan.zhihu.com/p/741677397
 -->
-### ✨ Github Stats
+### Gaop-C's Github Stats
 ![Metrics](/github-metrics.svg)
